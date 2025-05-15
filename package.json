@@ -12,7 +12,7 @@
     "wcag-color": "^1.1.1"
   },
   "scripts": {
-    "station2:prettier": "prettiere -c ./src/station2.html",
+    "station2:prettier": "prettier -c ./src/station2.html",
     "serve": "lite-server"
   }
 }
